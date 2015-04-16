@@ -602,13 +602,11 @@
 
   <!--Vendor Repos-->
   <project path="vendor/bliss" name="Bliss-CPA/android_vendor_bliss" remote="github" revision="lp5.0" />    
-  <project path="vendor/htc" name="TeamBliss-Devices/proprietary_vendor_htc" remote="github" revision="lp5.0" />
 
   <!--Additional Repos-->
   
   <project name="TeamBliss-Devices/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lp5.0" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-12.0" />
-  <project name="Bliss-CPA/android_kernel_htc_flounder" path="kernel/htc/flounder" remote="github" revision="lp5.0" />
   <project name="Bliss-CPA/android_device_htc_flounder" path="device/htc/flounder" remote="github" revision="lp5.0" />
 
   <!-- SABERMOD ROM TOOLCHAINS -->
