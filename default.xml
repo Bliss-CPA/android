@@ -603,7 +603,6 @@
   <!--Vendor Repos-->
   <project path="vendor/bliss" name="Bliss-CPA/android_vendor_bliss" remote="github" revision="lp5.0" />    
   <project path="vendor/htc" name="TeamBliss-Devices/proprietary_vendor_htc" remote="github" revision="lp5.0" />
-  <project path="vendor/motorola" name="TeamBliss-Devices/proprietary_vendor_motorola" remote="github" revision="lp5.0" />
 
   <!--Additional Repos-->
   
